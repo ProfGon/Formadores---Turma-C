@@ -2,4 +2,10 @@ body {
     background-color: black;
     color: antiquewhite;
     text-align: center;
+    p {
+        font-style: italic;
+    }
+    h1 {
+        color: aqua;
+    }
 }
