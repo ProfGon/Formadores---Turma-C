@@ -8,4 +8,10 @@ body {
     h1 {
         color: aqua;
     }
+    section{
+        background-color: rgb(21, 171, 159);    
+        padding-top: 80px;
+        padding-bottom: 80px;
+
+    }
 }
