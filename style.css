@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #C8102E;
     color: antiquewhite;
     text-align: center;
     p {
@@ -9,7 +9,7 @@ body {
         color: rgb(223, 223, 223);
     }
     section{
-        background-color: rgb(107, 14, 4);    
+        background-color: #1D428A;    
         padding-top: 80px;
         padding-bottom: 80px;
         display: flex;
