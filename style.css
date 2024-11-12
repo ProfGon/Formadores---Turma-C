@@ -21,6 +21,10 @@ section {
     margin-right: 5%;
 }
 
+img {
+    height: 200px;
+}
+
 .logo {
         height: 200px;
         width: 100px;
@@ -30,6 +34,5 @@ section {
        display: flex;
        overflow-x: auto;
         gap: 15px;
-        height: 400px;
-        width: 200px;
+        
     }
