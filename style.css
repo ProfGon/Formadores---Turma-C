@@ -6,7 +6,7 @@ p {
     font-style: italic;
 }
 h1 {
-        color: rgb(223, 223, 223);
+    color: rgb(223, 223, 223);
 }
 section {
         background-color: #1d428c;    
@@ -31,4 +31,3 @@ section {
        overflow-x: auto;
         gap: 15px;
     }
-}
