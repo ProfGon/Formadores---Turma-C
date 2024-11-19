@@ -26,8 +26,8 @@ img {
 }
 
 .logo {
-    height: 50px;
-     width: 25px;
+    height: 100px;
+     width: 50px;
 }
 
 .categoria-vídeos {
@@ -42,4 +42,6 @@ img {
 }
 .inicio {
     display: flex;
+    justify-content: center;
+    font-size: 20px;
 }
